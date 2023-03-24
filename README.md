@@ -1,4 +1,6 @@
 
+#This is a real time speech-to-text and chat_bot application
+
 ## follow the step
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 1. conda create --name chat_bot python=3.9
