@@ -1,5 +1,5 @@
 
-# This is a real time speech-to-text and chat_bot application
+# This is a speech-to-text and chat_bot application
 
 ## follow the step
 
